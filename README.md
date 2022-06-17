@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keelanburnham.
+- 👋🏻 Hi, I’m @keelanburnham.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript.
+- 🐍 I’m currently learning Python.
 - 💞️ Working on my own project to better my skills.
