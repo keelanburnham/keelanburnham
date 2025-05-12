@@ -1,4 +1,1 @@
-- 👋🏻 Hi, I’m @keelanburnham.
-- 👀 I’m interested in web development.
-- 🐍 I’m currently learning Python.
-- 💞️ Working on my own project to better my skills.
+Hi, I'm Keelan. I'm currently learning Swift. The following repos will contain sample code from my learning.
